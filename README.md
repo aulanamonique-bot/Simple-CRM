@@ -1,5 +1,9 @@
 # Simple-CRM
 Simple CRM
+
+This repo is a template.
+Each client must deploy their own Google Apps Script and paste their own Web App URL into script.js.
+
 Lead Intake → Google Sheets (Simple CRM) v2
 
 This package is designed to be hard to break:
